@@ -1,0 +1,19 @@
+{
+  "name": "sorteo-harley-backend",
+  "version": "1.0.0",
+  "description": "Backend para Sorteo Harley",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IVANFE7/sorteo-harley-backend.git"
+  },
+  "author": "IVANFE7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IVANFE7/sorteo-harley-backend/issues"
+  },
+  "homepage": "https://github.com/IVANFE7/sorteo-harley-backend#readme"
+}
